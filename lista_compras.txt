@@ -1,5 +1,6 @@
-pan:2275
-manzanas:1000
-huevos:3400
-cerezas:2000
-bananos:150
+Blusas:22375
+Vestidos:50000
+Zapatos:54000
+Sueter:35000
+Pantalones:45500
+
